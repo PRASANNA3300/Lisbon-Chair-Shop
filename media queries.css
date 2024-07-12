@@ -1,0 +1,55 @@
+/**************************/
+/* BELOW 544px (Phones) */
+/**************************/
+
+@media (max-width: 34em) {
+  header {
+    grid-template-columns: 1fr;
+  }
+
+  .container {
+    width: 20rem;
+  }
+  img {
+    width: 100%;
+  }
+
+  .grid-3-cols {
+    grid-template-columns: 1fr;
+    margin-top: 2rem;
+    margin-bottom: 4rem;
+  }
+
+  .btn--big {
+    font-size: 14px;
+    padding: 1rem 1.5rem;
+    margin: 1rem 5rem;
+  }
+
+  .btn--small {
+    font-size: 12px;
+    padding: 6px 10px;
+  }
+
+  .chair {
+    margin-bottom: 0 auto;
+  }
+
+  .features-icon {
+    margin-top: 4rem;
+  }
+  .hero {
+    margin-top: 4rem;
+  }
+  .testimonial-section {
+    padding: 1.5rem;
+  }
+
+  .testimonial-box {
+    grid-column: 1 / 2;
+    align-self: center;
+  }
+  figure {
+    margin-top: 5rem;
+  }
+}
