@@ -1,4 +1,4 @@
-# Lisbon-Chair-Shop
+# LisbonChairShop
 
 The Lisbon Chair Shop project is a clean, responsive front-end website designed to showcase stylish and high-quality chairs.
 Built using HTML5 and CSS3, the project emphasizes modern design and smooth user experience.
